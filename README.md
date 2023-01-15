@@ -34,3 +34,8 @@ also get __removed__%%
 
 **this here will stay in, since it's no comment**
 ```
+
+---
+
+## License
+This project is licensed under the Open Source MIT License. For the full license text, see [LICENSE.md](./LICENSE.md)
